@@ -12,9 +12,11 @@
 If you have never played with JavaScript or you see yourself a bit lost, we recommend performing one or a couple of free courses which will help you to have a better understanding of Javascript from the beginning. See links below:
 
 Focus on the JavaScript topic:
+
 https://learn.freecodecamp.org/
 
 Here you will find the introduction to JavaScript tp review:
+
 https://www.codecademy.com/learn/learn-javascript
 
 If you already know some basic JavaScript we have written some information which might help you to be successful in the challenge.
