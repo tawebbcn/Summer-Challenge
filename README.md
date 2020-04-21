@@ -11,13 +11,13 @@
 
 If you have never played with JavaScript or you see yourself a bit lost, we recommend performing one or a couple of free courses which will help you to have a better understanding of Javascript from the beginning. See links below:
 
-Focus on the JavaScript topic:
+Focus on the Introduction to JavaScript:
 
-https://learn.freecodecamp.org/
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/:
 
-Here you will find the introduction to JavaScript tp review:
+Here you will find the introduction to JavaScript to review (units 1 to 6, and unit 8.1):
 
-https://www.codecademy.com/learn/learn-javascript
+https://www.codecademy.com/learn/introduction-to-javascript
 
 If you already know some basic JavaScript we have written some information which might help you to be successful in the challenge.
 
@@ -191,17 +191,17 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objec
 
 ## Challenge
 
-Summer time is here!! good weather and better vibes :smile: Finally we can travel to that place we've dreaming of whilst at the office.
+Summer time is here!! Good weather and better vibes :smile: Finally we can travel to that place we've dreaming of whilst at the office.
 Lets go and create some scripts to look for our dream destination!
 
   -- First thing we need is an affordable place so lets ""print the flights under 100 euros and show the
 price and cityTo in the console""
 
-  -- Yeah ! that looks nice, so many places! we really want to have a good time in barcelona so ""store the flights
-going to barcelona in the barcelonaFlights array and print it in the console""
+  -- Yeah ! that looks nice, so many places! we really want to have a good time in Barcelona so ""store the flights
+going to barcelona in the barcelona Flights array and print it in the console""
 
 -- Ok super! now that we are going to Barcelona, lets take advantage of cheap internal flights by searching for another spanish city. We need to
-""  print only the flight that goes to Malaga ""
+"" print only the flight that goes to Malaga ""
 
 -- On second thought Spain is too hot! we would rather see more of Europe so lets go to Prague.... Oh no! it seems that the
 flight has been delayed !  so... "" can you change the duration of the flight barcelona to Prague to "20 h" ?"
