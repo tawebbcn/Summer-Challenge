@@ -15,7 +15,7 @@ Focus on the Introduction to JavaScript:
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/:
 
-Here you will find the introduction to JavaScript to review (units 1 to 6, and unit 8.1):
+Here you will find the introduction to JavaScript to review (units 1 to 8):
 
 https://www.codecademy.com/learn/introduction-to-javascript
 
