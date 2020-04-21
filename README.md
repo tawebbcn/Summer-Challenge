@@ -1,11 +1,35 @@
-
-
 # Summer Challenge
+
 
 ## Introduction
 
-.............................
-.................
+If you are reading this, it means you are one step closer to learning the nits and grits of becoming a Web Developer. Through this document you'll get to create some scripts to look for our dream destination! 
+
+You will have to deliver your challenge in a .js file. Here at Ironhack we use Visual Studio code editor, but you can use any other such as Brackets, Sublime, etc. We leave it up to your personal preference. 
+
+Please find the data set you need to use in your exercise in the data.js file.
+
+..............................................
+
+
+## Challenge
+
+You are going to create Virgin Galactic's website for purchasing the suborbital tickets and we are asking you for a Javascript File to start with it. Since this is a template website, we are going to be using regular flights to practice.
+
+  -- First things first. We want to go to the moon but under an affordable budget. Let's **_print the flights under 100 euros and show the "price" and "cityTo" in the console_**
+
+  --Awesome, we have so many places already! We are looking forward to have a good time in Barcelona. So **_store the flights
+going to barcelona in a "barcelonaFlights" array and print it in the console_**
+
+-- Super! We are going to Barcelona to begin with our journey. We know internal flights in Spain are cheap so let's take advantage of it by searching for another Spanish city. We need to **_print only the flight that departures from Málaga_**
+
+-- On second thought Spain in summer is too hot! e would rather see more of Europe so let's go to Prague. Oh no! It seems the flight has been delayed! So... **_can you change the duration of the flight barcelona to Prague to "20 h" ?_**
+
+-- Finally! We have to pay and we are getting some money from our grandpa ❤️ so we can afford to go to the moon later on: Let's **_sort the flights by price, from highest to lowest_**
+
+
+..............................................
+
 
 ## Help Sheet
 
@@ -15,13 +39,14 @@ Focus on the Introduction to JavaScript:
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/:
 
-Here you will find the introduction to JavaScript to review (units 1 to 8):
+Here you will find another introductory course to JavaScript (units 1 to 8):
 
 https://www.codecademy.com/learn/introduction-to-javascript
 
 If you already know some basic JavaScript we have written some information which might help you to be successful in the challenge.
 
-### Variable
+
+### Variables
 
 A variable is a named location for storing a value. That way an unpredictable value can be accessed through a predetermined name.
 
@@ -52,7 +77,7 @@ Documentation:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
 
 
-### Array
+### Arrays
 
 An array is an ordered collection of data (either primitive or object depending upon the language). Arrays are used to store multiple values in a single variable. This is compared to a variable that can store only one value. 
 
@@ -72,6 +97,7 @@ var fruits = ['Apple', 'Banana'];
 Documentation: 
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
 
 ### For loop
 
@@ -99,13 +125,14 @@ Documentation:
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
 
+
 ### Functions
 
 A function is a code snippet that can be called by other code or by itself, or a variable that refers to the function. When a function is called, arguments are passed to the function as input, and the function can optionally return an output. A function in JavaScript is also an object.
 
 A function name is an identifier declared as part of a function declaration or function expression. The function name's scope depends on whether the function name is a declaration or expression.
 
-Functions are one of the fundamental building blocks in JavaScript. A function is a JavaScript procedure—a set of statements that performs a task or calculates a value. To use a function, you must define it somewhere in the scope from which you wish to call it.
+Functions are one of the fundamental building blocks in JavaScript. A function is a JavaScript procedure — a set of statements that performs a task or calculates a value. To use a function, you must define it somewhere in the scope from which you wish to call it.
 
 Syntax
 ```
@@ -164,50 +191,33 @@ Documentation:
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
 
+
 ### Objects In Javascript
 
 In JavaScript, objects are king. If you understand objects, you understand JavaScript.
-All JavaScript values, except primitives (like string), are objects.
+All JavaScript values, except primitives (like strings), are objects.
 
-Javascript variables can contain single values
+Javascript variables can contain single values:
+```
 var person = "Maria Garcia ";
-Javascript objects can contain many values
+ ```
+Javascript objects can contain many values:
+```
 var person = {firstName:"Maria", lastName:"Garcia", age:50, eyeColor:"blue"};
+```
 The named values, in JavaScript objects, are called properties.
 
 The syntax for accessing the property of an object is either of the two below options:
 - objectName.property
 - objectName['property']
-to reassign a propery we can use:
+
+to reassign a property we can use:
+```
 person.lastName = "Jones";
+```
 if this propery doesnt exist it will add a new one to the object.
 
 Documentation: 
 
-
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
-
-
-
-## Challenge
-
-Summer time is here!! Good weather and better vibes :smile: Finally we can travel to that place we've dreaming of whilst at the office.
-Lets go and create some scripts to look for our dream destination!
-
-  -- First thing we need is an affordable place so lets ""print the flights under 100 euros and show the
-price and cityTo in the console""
-
-  -- Yeah ! that looks nice, so many places! we really want to have a good time in Barcelona so ""store the flights
-going to barcelona in the barcelona Flights array and print it in the console""
-
--- Ok super! now that we are going to Barcelona, lets take advantage of cheap internal flights by searching for another spanish city. We need to
-"" print only the flight that goes to Malaga ""
-
--- On second thought Spain is too hot! we would rather see more of Europe so lets go to Prague.... Oh no! it seems that the
-flight has been delayed !  so... "" can you change the duration of the flight barcelona to Prague to "20 h" ?"
-
--- Finally we get some money from our grandpa :heart:, and we can now afford more trips away. lets
-"" sort the flights by price ,from highest to lowest ""
-
-
 
